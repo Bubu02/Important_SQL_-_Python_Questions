@@ -12,8 +12,8 @@ This repo features key SQL and Python questions with descriptions and solutions 
 
 | # | Title            | Description                          | Link                              |
 |---|------------------|--------------------------------------|-----------------------------------|
-| 1 | Model Creation   | SQL to create a relational model     | [View SQL](./model%20creation.sql)|
-| 2 | Question 01      | Example SQL problem with solution    | [View SQL](./Question_01.sql)     |
+| 1 | Table Creation   | SQL to create a relational model     | [View SQL](../table_creation_table.sql)|
+| 2 | Question 01      | Example SQL problem with solution    | [View SQL](../Question_01.sql)     |
 
 </details>
 
