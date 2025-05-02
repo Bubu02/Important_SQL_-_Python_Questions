@@ -12,7 +12,7 @@ This repo features key SQL and Python questions with descriptions and solutions 
 
 | # | Title            | Description                          | Link                              |
 |---|------------------|--------------------------------------|-----------------------------------|
-| 1 | Table Creation   | SQL to create a relational model     | [View SQL](../table_creation_table.sql)|
+| 1 | Table Creation   | SQL to create a relational model     | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/table_creation_table.sql)|
 | 2 | Question 01      | Example SQL problem with solution    | [View SQL](../Question_01.sql)     |
 
 </details>
