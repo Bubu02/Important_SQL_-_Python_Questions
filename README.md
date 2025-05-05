@@ -18,6 +18,8 @@ This repo features key SQL and Python questions with descriptions and solutions 
 | 4 | Question 03      | Example SQL problem with solution    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_03.sql)     |
 | 5 | Question 04      | Write a query to find the employee with the highest salary in each department in the year 2025.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_04.sql)     |
 | 6 | Question 05      | Write a query to rank employees by salary within their respective department, with the highest salary getting rank 1.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_05.sql)     |
+| 7 | Question 06      | Write a query to calculate the cumulative total salary paid to employees over time, ordered by SalaryDate.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_06.sql)     |
+| 8 | Question 07      | Write a query to display only the top 3 highest salaries within each department.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_07.sql)     |
 
 </details>
 
