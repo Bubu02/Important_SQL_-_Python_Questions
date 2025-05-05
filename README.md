@@ -17,6 +17,7 @@ This repo features key SQL and Python questions with descriptions and solutions 
 | 3 | Question 02      | Example SQL problem with solution    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_02.sql)     |
 | 4 | Question 03      | Example SQL problem with solution    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_03.sql)     |
 | 5 | Question 04      | Write a query to find the employee with the highest salary in each department in the year 2025.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_04.sql)     |
+| 6 | Question 05      | Write a query to rank employees by salary within their respective department, with the highest salary getting rank 1.    | [View SQL](https://github.com/Bubu02/Important_SQL_-_Python_Questions/blob/master/SQL/QnA_05.sql)     |
 
 </details>
 
